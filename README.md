@@ -114,9 +114,15 @@ plt.show()
 
 <img width="292" height="393" alt="Screenshot 2026-10-30 160231" src="https://github.com/user-attachments/assets/ed4e24d0-1a0c-44e5-9e3f-3e80434828c1" />
 
+
+
 <img width="268" height="397" alt="Screenshot 2026-10-30 160244" src="https://github.com/user-attachments/assets/5a0813f3-d8c2-47a3-af2c-bf8fe9e55ce7" />
 
+
+
 <img width="277" height="398" alt="Screenshot 2026-10-30 160255" src="https://github.com/user-attachments/assets/027a7bd1-1b79-4ada-8c81-8ed14190c31e" />
+
+
 
 <img width="282" height="402" alt="Screenshot 2026-10-30 160307" src="https://github.com/user-attachments/assets/f5a30335-d720-4249-99ec-0d1094773d1c" />
 
