@@ -120,7 +120,7 @@ plt.show()
 
 
 
-<img width="277" height="398" alt="Screenshot 2026-10-30 160255" src="https://github.com/user-attachments/assets/027a7bd1-1b79-4ada-8c81-8ed14190c31e" />
+<img width="286" height="403" alt="Screenshot 2026-10-30 161656" src="https://github.com/user-attachments/assets/a36a90ba-6a48-4dbd-b4f7-2719ee236723" />
 
 
 
